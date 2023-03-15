@@ -6,7 +6,7 @@
     <div class="container">
       <div class="page-heading">
         <p>
-          {{__('APPLAY FOR A JOB')}}
+          {{__('APPLY FOR A JOB')}}
         </p>
       </div>
     </div>
